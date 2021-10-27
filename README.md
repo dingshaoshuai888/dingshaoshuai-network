@@ -12,7 +12,6 @@ allprojects {
 Step 2. Add the dependency
 ```
 dependencies {
-    implementation 'com.github.dingshaoshuai888:base-network:lastVersion'
+    implementation 'com.github.dingshaoshuai888:dingshaoshuai-network:lastVersion'
 }
 ```
-"# dingshaoshuai-network" 
